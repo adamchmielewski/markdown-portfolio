@@ -1,4 +1,3 @@
-<ul>
-  <li>item 1 :heart:</li>
-  <li>item 2 :sparkles:</li>
-  </ul>
+-list 1
+  *item 1 :heart:
+  *item 2 :sparkles:
